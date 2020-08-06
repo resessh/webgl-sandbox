@@ -1,0 +1,13 @@
+{
+  "name": "webgl-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "resessh <info@resessh.net>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
